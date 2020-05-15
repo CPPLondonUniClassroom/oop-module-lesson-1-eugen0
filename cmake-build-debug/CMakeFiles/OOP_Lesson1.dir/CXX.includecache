@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tania/CLionProjects/oop-module-lesson-1-eugen0/EXERCISE.h
+tuple
+-
+
+C:/Users/Tania/CLionProjects/oop-module-lesson-1-eugen0/main.cpp
+iostream
+-
+private/Checker.h
+C:/Users/Tania/CLionProjects/oop-module-lesson-1-eugen0/private/Checker.h
+EXERCISE.h
+C:/Users/Tania/CLionProjects/oop-module-lesson-1-eugen0/EXERCISE.h
+
+C:/Users/Tania/CLionProjects/oop-module-lesson-1-eugen0/private/Checker.h
+string
+-
+type_traits
+-
+utility
+-
+
